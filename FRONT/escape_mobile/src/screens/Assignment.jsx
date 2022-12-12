@@ -64,50 +64,7 @@ const RegionLittleList = {
     '제주':['전체']
 }
 const RegionList = ['서울', '경기', '충청', '경상', '전라', '강원', '제주']
-// const obj = [
-//     {
-//     'reservedName':'니츠',
-//     'reservedDate':'22-10-14',
-//     'reservedTime':'09:30',
-//     'storeName':'비밀의화원 광주1호점',
-//     'themeName':'명당'
-//     },
-//     {
-//         'reservedName':'니츠',
-//         'reservedDate':'22-10-14',
-//         'reservedTime':'09:30',
-//         'storeName':'비밀의화원 광주1호점',
-//         'themeName':'엉덩이가 큰 그녀는 내가 좋댔어'
-//         },
-//     // {
-//     //     'user':'니츠',
-//     //     'date':'10-14',
-//     //     'time':'09:30',
-//     //     'storeName':'비밀의화원 광주1호점',
-//     //     'themeName':'명당'
-//     //     },
-//     //     {
-//     //         'user':'니츠',
-//     //         'date':'10-14',
-//     //         'time':'09:30',
-//     //         'storeName':'비밀의화원 광주1호점',
-//     //         'themeName':'명당'
-//     //         },
-//     //         {
-//     //             'user':'니츠',
-//     //             'date':'10-14',
-//     //             'time':'09:30',
-//     //             'storeName':'비밀의화원 광주1호점',
-//     //             'themeName':'명당'
-//     //             },
-//     //             {
-//     //                 'user':'니츠',
-//     //                 'date':'10-14',
-//     //                 'time':'09:30',
-//     //                 'storeName':'비밀의화원 광주1호점',
-//     //                 'themeName':'명당'
-//     //                 },
-// ]
+
 
 const Assignment = () => {
     const navigation = useNavigation(); 
